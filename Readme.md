@@ -1,4 +1,4 @@
-# 🏡 Velora Estates
+# 🏡 KENY Estates
 
 A modern luxury real estate website developed with **HTML, CSS, JavaScript, and Bootstrap**.
 
